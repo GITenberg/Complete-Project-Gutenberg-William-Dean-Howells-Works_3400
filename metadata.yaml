@@ -1,0 +1,62 @@
+_repo: Complete-Project-Gutenberg-William-Dean-Howells-Works_3400
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2002-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'American literature -- 19th century'
+- GITenberg
+tableOfContents: 'Studies: Henry James, Jr. -- The Man of Letters as a Man of Business
+  -- A Psychological Counter-current in Recent Fiction -- Emile Zola -- Literary Friends
+  and Acquaintances: Biographical; My First Visit to New England; First Impressions
+  of Literary New York; Roundabout to Boston; Literary Boston As I Knew It; Oliver
+  Wendell Holmes; The White Mr. Longfellow; Studies of Lowell; Cambridge Neighbors;
+  A Belated Guest; My Mark Twain -- Literature and Life: Man of Letters in Business;
+  Confessions of a Summer Colonist; The Young Contributor; Last Days in a Dutch Hotel;
+  Anomalies of the Short Story; Spanish Prisoners of War; American Literary Centers;
+  Standard Household Effect Co.; Notes of a Vanished Summer; Worries of a Winter Walk;
+  Summer Isles of Eden; Wild Flowers of the Asphalt; A Circus in the Suburbs; A She
+  Hamlet; The Midnight Platoon; The Beach at Rockaway; Sawdust in the Arena; At a
+  Dime Museum; American Literature in Exile; The Horse Show; The Problem of the Summer;
+  Aesthetic New York Fifty-odd Years Ago; From New York into New England; The Art
+  of the Adsmith; The Psychology of Plagiarism; Puritanism in American Fiction; The
+  What and How in Art; Politics in American Authors; Storage; "Floating down the River
+  on the O-hi-o" -- My Literary Passions: The Bookcase at Home; Goldsmith; Cervantes;
+  Irving; First Fiction and Drama; Longfellow''s "Spanish Student"; Scott; Lighter
+  Fancies; Pope; Various Preferences; Uncle Tom''s Cabin; Ossian; Shakespeare; Ik
+  Marvel; Dickens; Wordsworth, Lowell, Chaucer; Macaulay; Critics and Reviews; A Non-literary
+  Episode; Thackeray; "Lazarillo De Tormes"; Curtis, Longfellow, Schlegel; Tennyson;
+  Heine; De Quincey, Goethe, Longfellow; George Eliot, Hawthorne, Goethe, Heine; Charles
+  Reade; Dante; Goldoni, Manzoni, D''azeglio; "Pastor Fido," "Aminta," "Romola," "Yeast,"
+  "Paul Ferroll"; Erckmann-chatrian, Bjorstjerne Bjornson; Tourguenief, Auerbach;
+  Certain Preferences and Experiences; Valdes, Galdos, Verga, Zola, Trollope, Hardy;
+  Tolstoy -- Criticism and Fiction -- The Rise of Silas Lapham -- An Open-eyed Conspiracy--an
+  Idyl of Saratoga -- The Landlord at Lions Head, v1 & v2 -- Their Wedding Journey:
+  The Outset; A Midsummer-day''s Dream; The Night Boat; A Day''s Railroading; The
+  Enchanted City, and Beyond; Niagara; Down the St. Lawrence; The Sentiment of Montreal;
+  Homeward and Home; Niagara Revisited Twelve Years after Their Wedding -- A Hazard
+  of New Fortunes, part 1-5 -- Their Silver Wedding Journey, vol 1-3 -- Dr. Breen''s
+  Practice -- Fennel and Rue -- The Kentons -- Ragged Lady, v1 & v2 -- April Hopes
+  -- PLAYS: The Sleeping-Car -- The Garotters -- The Elevator -- The Parlor-Car --
+  The Register.'
+title: Complete Project Gutenberg William Dean Howells Works
+url: http://www.gutenberg.org/ebooks/3400
